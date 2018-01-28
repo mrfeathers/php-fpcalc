@@ -1,6 +1,6 @@
 {
   "name": "mrfeathers/php-fpcalc",
-  "description": "",
+  "description": "PHP wrapper for command-line fingerprint generator - fpcalc",
   "type": "library",
   "keywords": [
     "chromaprint",
