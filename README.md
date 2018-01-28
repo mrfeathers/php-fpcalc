@@ -60,7 +60,7 @@ You're able to set some options:
 - `rate` - sample rate of the input
 - `channels` - number of channels in the input audio
 - `length` - restricts the duration of the processed input audio (default 120, in seconds)
-- `chunk` - splits the input audio into chunks of $chunkDuration duration (in seconds)
+- `chunk` - splits the input audio into chunks of given duration (in seconds)
 - `overlap` - overlap the chunks slightly to make sure audio on the edge id fingeprinted
 - `ts` - output UNIX timestamps for chunked results, useful when fingerprinting real-time audio stream
 - `raw` - output fingerprints in the uncompressed format
