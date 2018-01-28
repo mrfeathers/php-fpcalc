@@ -68,4 +68,4 @@ You're able to set some options:
 
 > Sometimes fingerprint generation can be a long process, sou you can set the process timeout using `setTimeout` method (default is 60 seconds).
 
-**Feel free to [open an issue]() in case of bugs or improvement requests!**
+**Feel free to [open an issue](https://github.com/mrfeathers/php-fpcalc/issues/new) in case of bugs or improvement requests!**
