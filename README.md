@@ -1,4 +1,5 @@
 # PHP-fpcalc
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 
 This package is a wrapper for the [fpcalc command-line tool](https://acoustid.org/chromaprint). 
 
