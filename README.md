@@ -1,5 +1,6 @@
 # PHP-fpcalc
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
+[![Build Status](https://travis-ci.org/mrfeathers/php-fpcalc.svg?branch=master)](https://travis-ci.org/mrfeathers/php-fpcalc)
 
 This package is a wrapper for the [fpcalc command-line tool](https://acoustid.org/chromaprint). 
 
@@ -8,17 +9,17 @@ First you need to get installed `fpcalc` on your system.
 
 **OS X**
 ```bash
-$ brew install chromaprint
+brew install chromaprint
 ```
 
 **Ubuntu**
 ```bash
-$ sudo apt-get install libchromaprint-tools
+apt-get install libchromaprint-tools
 ```
 
 **Arch Linux**
 ```bash
-
+pacman -Sy chromaprint
 ```
 
 Or you can get the latest version from [AcoustId site](https://acoustid.org/chromaprint)
