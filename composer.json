@@ -29,6 +29,9 @@
     "php": ">=7.1",
     "symfony/process": "^4.0"
   },
+  "suggest": {
+    "mrfeathers/acoustid": "Object Oriented PHP Wrapper for acoustid.org API"
+  },
   "autoload-dev": {
     "psr-4": {
       "Tests\\": "tests/"
